@@ -30,53 +30,29 @@ Data Analyst | Python | SQL | Excel | Power BI | Tableau | MySQL | Dashboarding 
 
 ## 🛠️ Habilidades Técnicas
 
-### 📊 Análisis de Datos y Programación
-
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"/> Python  
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Inventor-D83B01?style=for-the-badge&logo=autodesk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+
 </p>
 
-<p align="left">
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="28"/> Excel  
-</p>
-
-<p align="left">
-<img src="https://img.icons8.com/color/48/power-bi.png" width="28"/> Power BI  
-</p>
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28"/> MySQL  
-</p>
-
-<p align="left">
-<img src="https://img.icons8.com/color/48/tableau-software.png" width="28"/> Tableau  
-</p>
-
----
-
-### 🏭 Ingeniería y Diseño
-
-<p align="left">
-<img src="https://img.icons8.com/color/48/autodesk.png" width="28"/> Autodesk Inventor  
-</p>
-
-<p align="left">
-<img src="https://img.icons8.com/color/48/arduino.png" width="28"/> Arduino  
-</p>
-
----
-
-### 📄 Productividad y Presentación
-
-<p align="left">
-<img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="28"/> Microsoft Word  
-</p>
-
-<p align="left">
-<img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="28"/> Microsoft PowerPoint  
-</p>
-
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcarhm2003-arch&layout=compact)
 
 ## 📂 Proyectos
 
