@@ -1,4 +1,17 @@
-<h1 align="center">Jesús Carhuapoma</h1>
+<h1 align="center">¡Hola! 👋 Soy Jesús Carhuapoma</h1>
+
+<h3 align="center">
+Bienvenido a mi perfil de GitHub 🚀
+</h3>
+
+<p align="center">
+Estudiante de Ingeniería Industrial y Comercial, apasionado por el análisis de datos, la mejora de procesos y la tecnología.  
+Actualmente me encuentro en búsqueda de oportunidades laborales donde pueda aportar valor, seguir aprendiendo y crecer profesionalmente como Analista de Datos.
+</p>
+
+<p align="center">
+Data Analyst | Python | SQL | Excel | Power BI | Tableau | MySQL | Dashboarding | Process Improvement
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jesus-carhuapoma">
@@ -10,15 +23,9 @@
 </a>
 </p>
 
-## 👨‍💻 Sobre mí
-
-Soy estudiante de Ingeniería Industrial y Comercial con interés en el análisis de datos, mejora de procesos y toma de decisiones basada en información. Actualmente me enfoco en desarrollar habilidades en herramientas analíticas y construir proyectos orientados al entorno empresarial.
-
-- 📍 Perú  
-- 📊 En camino a ser Analista de Datos  
-- 🚀 Interés en Business Intelligence y Automatización  
-- 📈 Orientado a resultados y aprendizaje continuo  
-
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420">
+</p>
 ---
 
 ## 🛠️ Habilidades Técnicas
@@ -68,6 +75,8 @@ Soy estudiante de Ingeniería Industrial y Comercial con interés en el análisi
 <p align="left">
 <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="28"/> Microsoft PowerPoint  
 </p>
+
+---
 
 ## 📂 Proyectos
 
