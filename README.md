@@ -53,8 +53,8 @@ KPIs de ventas, rentabilidad y desempeño empresarial.
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: *(agrega tu link aquí)*  
-- 📧 Email: *(agrega tu correo aquí)*  
+- 💼 LinkedIn: *www.linkedin.com/in/jesus-carhuapoma*  
+- 📧 Email: *jcarhm2003@gmail.com*  
 
 ---
 
