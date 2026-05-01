@@ -23,61 +23,52 @@ Soy estudiante de Ingeniería Industrial y Comercial con interés en el análisi
 
 ## 🛠️ Habilidades Técnicas
 
-<table>
-<tr>
-<td>
+### 📊 Análisis de Datos y Programación
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"/> Python
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"/> Python  
+</p>
 
-</td>
-<td>
+<p align="left">
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="28"/> Excel  
+</p>
 
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="28"/> Excel
+<p align="left">
+<img src="https://img.icons8.com/color/48/power-bi.png" width="28"/> Power BI  
+</p>
 
-</td>
-<td>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28"/> MySQL  
+</p>
 
-<img src="https://img.icons8.com/color/48/power-bi.png" width="28"/> Power BI
+<p align="left">
+<img src="https://img.icons8.com/color/48/tableau-software.png" width="28"/> Tableau  
+</p>
 
-</td>
-</tr>
+---
 
-<tr>
-<td>
+### 🏭 Ingeniería y Diseño
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28"/> MySQL
+<p align="left">
+<img src="https://img.icons8.com/color/48/autodesk.png" width="28"/> Autodesk Inventor  
+</p>
 
-</td>
-<td>
+<p align="left">
+<img src="https://img.icons8.com/color/48/arduino.png" width="28"/> Arduino  
+</p>
 
-<img src="https://img.icons8.com/color/48/tableau-software.png" width="28"/> Tableau
+---
 
-</td>
-<td>
+### 📄 Productividad y Presentación
 
-<img src="https://img.icons8.com/color/48/autodesk.png" width="28"/> Inventor
+<p align="left">
+<img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="28"/> Microsoft Word  
+</p>
 
-</td>
-</tr>
+<p align="left">
+<img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="28"/> Microsoft PowerPoint  
+</p>
 
-<tr>
-<td>
-
-<img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="28"/> Word
-
-</td>
-<td>
-
-<img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="28"/> PowerPoint
-
-</td>
-<td>
-
-<img src="https://img.icons8.com/color/48/arduino.png" width="28"/> Arduino
-
-</td>
-</tr>
-</table>
 ## 📂 Proyectos
 
 ### 📌 Análisis de Datos Abiertos del Perú
