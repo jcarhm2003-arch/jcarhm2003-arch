@@ -23,25 +23,22 @@ Soy estudiante de Ingeniería Industrial y Comercial con interés en el análisi
 
 ## 🛠️ Habilidades Técnicas
 
-### Lenguajes y Bases de Datos
-- Python  
-- SQL  
-- VBA  
-- MySQL  
+<p align="left">
 
-### Análisis y Visualización
-- Power BI  
-- Excel Avanzado  
-- Tableau  
-- Dashboards KPI  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/> 
 
-### Herramientas
-- Git  
-- GitHub  
-- Visual Studio Code  
-- Microsoft Office  
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="45" height="45"/>
+<img src="https://img.icons8.com/color/48/power-bi.png" width="45" height="45"/>
+<img src="https://img.icons8.com/color/48/tableau-software.png" width="45" height="45"/>
+<img src="https://img.icons8.com/color/48/microsoft-office-2019.png" width="45" height="45"/>
 
----
+</p>
 
 ## 📂 Proyectos
 
