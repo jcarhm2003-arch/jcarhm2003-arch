@@ -52,12 +52,26 @@ Data Analyst | Python | SQL | Excel | Power BI | Tableau | MySQL | Dashboarding 
 
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcarhm2003-arch&layout=compact)
+<p align="center">
+  <img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jcarhm2003-arch&layout=compact&langs_count=8&theme=dark&hide_border=true" />
+</p>
 
-## 📂 Proyectos
+## 📁 Proyectos
 
-### 📌 Análisis de Datos Abiertos del Perú
-Exploración y evaluación de datasets públicos, indicadores de actualización y dashboards interactivos.
+<table>
+<tr>
+<td align="center">
+
+<a href="https://github.com/jcarhm2003-arch/analisis-pnda-peru-usabilidad">
+<img src="./assets/images/ENTREGABLE%201%20conv%200.png" width="500">
+</a>
+
+**📊 Analisis PNDA Peru Usabilidad**
+
+</td>
+</tr>
+</table>
+Proyecto de análisis de datos sobre la Plataforma Nacional de Datos Abiertos del Perú.
 
 ### 📌 Automatización de Procesos en Excel
 Desarrollo de formularios y macros en VBA para optimizar tareas operativas y administrativas.
