@@ -23,21 +23,50 @@ Soy estudiante de Ingeniería Industrial y Comercial con interés en el análisi
 
 ## 🛠️ Habilidades Técnicas
 
+### 📊 Análisis de Datos y Programación
+
 <p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"/> Python  
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/> 
+<p align="left">
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="28"/> Excel  
+</p>
 
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="45" height="45"/>
-<img src="https://img.icons8.com/color/48/power-bi.png" width="45" height="45"/>
-<img src="https://img.icons8.com/color/48/tableau-software.png" width="45" height="45"/>
-<img src="https://img.icons8.com/color/48/microsoft-office-2019.png" width="45" height="45"/>
+<p align="left">
+<img src="https://img.icons8.com/color/48/power-bi.png" width="28"/> Power BI  
+</p>
 
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28"/> MySQL  
+</p>
+
+<p align="left">
+<img src="https://img.icons8.com/color/48/tableau-software.png" width="28"/> Tableau  
+</p>
+
+---
+
+### 🏭 Ingeniería y Diseño
+
+<p align="left">
+<img src="https://img.icons8.com/color/48/autodesk.png" width="28"/> Autodesk Inventor  
+</p>
+
+<p align="left">
+<img src="https://img.icons8.com/color/48/arduino.png" width="28"/> Arduino  
+</p>
+
+---
+
+### 📄 Productividad y Presentación
+
+<p align="left">
+<img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="28"/> Microsoft Word  
+</p>
+
+<p align="left">
+<img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="28"/> Microsoft PowerPoint  
 </p>
 
 ## 📂 Proyectos
