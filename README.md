@@ -1,61 +1,60 @@
-# 👋 Hola, soy Jesus Diego Carhuapoma Minaya
+<h1 align="center">Jesús Carhuapoma</h1>
 
-🎓 Estudiante de Ingeniería Industrial y Comercial  
-📍 Perú  
-📊 Enfocado en convertirme en **Analista de Datos**  
-🚀 Interesado en Business Intelligence, SQL, Python, Excel y Power BI  
+<p align="center">
+<a href="https://www.linkedin.com/in/jesus-carhuapoma">
+<img src="https://badgen.net/badge/LinkedIn/Jesús%20Carhuapoma/0A66C2?icon=linkedin">
+</a>
 
----
+<a href="mailto:jcarhm2003@gmail.com">
+<img src="https://badgen.net/badge/Email/jcarhm2003@gmail.com/EA4335?icon=gmail">
+</a>
+</p>
 
-## 💡 Sobre mí
+## 👨‍💻 Sobre mí
 
-Soy una persona orientada a resultados, con interés en la optimización de procesos, análisis de información y toma de decisiones basada en datos.  
-Actualmente desarrollo proyectos enfocados en:
+Soy estudiante de Ingeniería Industrial y Comercial con interés en el análisis de datos, mejora de procesos y toma de decisiones basada en información. Actualmente me enfoco en desarrollar habilidades en herramientas analíticas y construir proyectos orientados al entorno empresarial.
 
-- 📈 Análisis de datos empresariales  
-- 📊 Dashboards interactivos  
-- 🐍 Automatización con Python  
-- 🗄️ Bases de datos SQL  
-- 📑 Reportes ejecutivos y KPIs  
-
----
-
-## 🛠️ Tecnologías y Herramientas
-
-- **Lenguajes:** Python, SQL, VBA  
-- **Visualización:** Power BI, Excel, Tableau  
-- **Bases de Datos:** MySQL, SQL Server  
-- **Otros:** Git, GitHub, VS Code  
+- 📍 Perú  
+- 📊 En camino a ser Analista de Datos  
+- 🚀 Interés en Business Intelligence y Automatización  
+- 📈 Orientado a resultados y aprendizaje continuo  
 
 ---
 
-## 📂 Proyectos Destacados
+## 🛠️ Habilidades Técnicas
+
+### Lenguajes y Bases de Datos
+- Python  
+- SQL  
+- VBA  
+- MySQL  
+
+### Análisis y Visualización
+- Power BI  
+- Excel Avanzado  
+- Tableau  
+- Dashboards KPI  
+
+### Herramientas
+- Git  
+- GitHub  
+- Visual Studio Code  
+- Microsoft Office  
+
+---
+
+## 📂 Proyectos
 
 ### 📌 Análisis de Datos Abiertos del Perú
-Evaluación de datasets públicos, usabilidad de plataformas y dashboards interactivos.
+Exploración y evaluación de datasets públicos, indicadores de actualización y dashboards interactivos.
 
-### 📌 Automatización en Excel con VBA
-Desarrollo de formularios y sistemas internos para gestión operativa.
+### 📌 Automatización de Procesos en Excel
+Desarrollo de formularios y macros en VBA para optimizar tareas operativas y administrativas.
 
 ### 📌 Dashboard Comercial
-KPIs de ventas, rentabilidad y desempeño empresarial.
+Visualización de ventas, rentabilidad, desempeño y métricas estratégicas para negocios.
+
+### 📌 Base de Datos SQL
+Diseño y consultas relacionales para almacenamiento, limpieza y análisis de información.
 
 ---
-
-## 📈 Actualmente Aprendiendo
-
-- Data Analytics Profesional  
-- Machine Learning aplicado a negocios  
-- Ingeniería de Datos Junior  
-- Portfolio de proyectos reales  
-
----
-
-## 📫 Contacto
-
-- 💼 LinkedIn: *www.linkedin.com/in/jesus-carhuapoma*  
-- 📧 Email: *jcarhm2003@gmail.com*  
-
----
-
-⭐ Siempre buscando oportunidades para crecer profesionalmente en análisis de datos y mejora continua.
